@@ -1,2 +1,1 @@
-这是master
-这是rel
+这是two文档。
